@@ -21,7 +21,7 @@ export function PieDePagina() {
     return (
         <Footer>
             <FooterContenido>
-                &copy; 2023. Desarollador por <LinkExterno href="">Waldir Maidana</LinkExterno>
+                &copy; 2023. Desarollador por <LinkExterno href="">Alvaro Fernandez</LinkExterno>
             </FooterContenido>
         </Footer>
     );
